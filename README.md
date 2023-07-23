@@ -38,4 +38,5 @@ Technologies Used:
 
 We welcome contributions from the open-source community and appreciate any feedback or bug reports. Join us in breaking down language barriers and fostering cross-cultural communication with this real-time language translation app.
 
-[Include installation instructions, usage examples, and relevant documentation as necessary.]
+![language translator](https://github.com/adityazanzane/translatorlang_app/assets/91719677/aa45d105-756c-4886-bf28-9873c8f0d981)
+
